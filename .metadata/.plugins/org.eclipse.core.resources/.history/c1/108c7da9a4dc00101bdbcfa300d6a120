@@ -1,0 +1,25 @@
+package coreJavaCapgemini;
+
+class C {
+	
+}
+
+public class Datatype2 {
+	public static void main(String[] args) {
+//		int a = 34;
+//		System.out.println(a);
+//		float b = 5.3f;
+//		System.out.println(b);
+//		String s = "Hello World";
+//		System.out.println(s);
+//		C c ;
+//		c = null;
+		{
+			int a = 50;
+			System.out.println(a);
+		}
+		int a = 100;
+		System.out.println(a);
+		System.out.println(10+"a");
+	}
+}

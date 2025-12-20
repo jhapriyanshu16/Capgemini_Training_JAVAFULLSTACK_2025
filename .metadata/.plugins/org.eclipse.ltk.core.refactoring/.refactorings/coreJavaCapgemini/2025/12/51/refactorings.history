@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;coreJavaCapgemini.Basic&apos; to &apos;Print1&apos;&#x0A;- Original project: &apos;coreJavaCapgemini&apos;&#x0A;- Original element: &apos;coreJavaCapgemini.Basic&apos;&#x0A;- Renamed element: &apos;coreJavaCapgemini.Print1&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Basic&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;coreJavaCapgemini{Basic.java[Basic" matchStrategy="1" name="Print1" qualified="false" references="true" similarDeclarations="false" stamp="1766038797540" textual="false" version="1.0"/>
+</session>

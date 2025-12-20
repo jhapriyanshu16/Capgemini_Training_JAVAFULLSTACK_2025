@@ -1,0 +1,17 @@
+package coreJavaCapgemini;
+
+public class CompoundAssignment {
+
+	public static void main(String[] args) {
+		int a = 5;
+		a += 5;
+		System.out.println(a);
+		int b = 9 ;
+		b *= 5;
+		System.out.println(b);
+		
+		int num = 50;
+		String res = num%3==0 && num%5==0 ? "divisible by both":"Not divisible by both";
+		System.out.println(res);
+	}
+}

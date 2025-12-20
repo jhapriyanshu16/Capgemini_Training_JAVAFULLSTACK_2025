@@ -1,0 +1,23 @@
+package coreJavaCapgemini;
+
+public class StudentEligibility {
+
+	public static void main(String[] args) {
+		int marks = 90;
+		int att = 75;
+		String res = (marks >= 40 && att >= 75) ? "Eligible":"Not Eligible";
+		System.out.println(res);
+		
+		int a = 5;
+		int b = a++ + ++a + a;
+		int c = --a + ++b + b--;
+		int d = a + b + c + a --;
+		a = 1; 
+		b= 2;
+		System.out.println(a++ +b);
+		
+	}
+
+}
+
+

@@ -1,0 +1,12 @@
+package coreJavaCapgemini;
+
+public class Scope {
+	public static void main(String[] args) {
+		int a = 10;
+		System.out.println(a);
+		a = 30;
+		//int a = 32;
+		System.out.println(a);
+	}
+
+}

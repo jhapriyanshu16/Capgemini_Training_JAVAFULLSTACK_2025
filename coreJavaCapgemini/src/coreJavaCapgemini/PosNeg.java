@@ -1,0 +1,11 @@
+package coreJavaCapgemini;
+
+public class PosNeg {
+
+	public static void main(String[] args) {
+		
+		int num = -1;
+		String result = num < 0 ? "Negative" : "Positive";
+		System.out.println(result);
+	}
+}
