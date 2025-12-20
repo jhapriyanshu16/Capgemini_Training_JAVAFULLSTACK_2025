@@ -5,6 +5,6 @@ public class Print2 {
 		System.out.print("***");
 		System.out.println("Hello");
 		System.out.print("set");
-		System.out.print();
+		System.out.print("k");
 	}
 }
