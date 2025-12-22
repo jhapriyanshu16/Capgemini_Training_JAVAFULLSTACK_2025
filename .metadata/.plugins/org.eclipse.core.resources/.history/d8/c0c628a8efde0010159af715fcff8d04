@@ -1,0 +1,14 @@
+package coreJavaCapgemini;
+
+public class Typecasting {
+	
+	public static void main(String[] args) {
+		double a = 10.2;
+		int b = a;       
+
+//		int b = (int) a ; 
+		System.out.println(b);
+	}
+    
+
+}

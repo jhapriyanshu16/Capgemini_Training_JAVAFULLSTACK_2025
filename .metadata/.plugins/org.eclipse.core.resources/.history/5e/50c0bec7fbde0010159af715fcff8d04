@@ -1,0 +1,10 @@
+package decisionmaking;
+
+public class DynamicRead {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

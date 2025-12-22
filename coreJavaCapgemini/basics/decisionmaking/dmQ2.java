@@ -1,0 +1,33 @@
+package decisionmaking;
+
+//write a java program to find the maximum of three numbers using nested if 
+
+public class dmQ2 {
+
+	public static void main(String[] args) {
+		int num1 = 53;
+		int num2 = 52;
+		int num3 = 65;
+		
+		if (num1 > num2) {
+			if (num1 > num3) {
+				System.out.println("Maximum "+ num1);
+			}
+		}
+		
+		if (num2 > num1) {
+			if (num2 > num3) {
+				System.out.println("Maximum "+ num2);
+			}
+		}
+		
+		if (num3 > num1) {
+			if (num3 > num2) {
+				System.out.println("Maximum "+ num3);
+			}
+		}
+
+	}
+
+}
+

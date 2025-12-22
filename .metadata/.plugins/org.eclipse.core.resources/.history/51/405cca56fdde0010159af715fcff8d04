@@ -1,0 +1,20 @@
+package decisionmaking;
+
+import java.util.Scanner;
+
+public class DynamicRead {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter the Student name");
+		String studentName = sc.next();
+		System.out.println("Enter age");
+		int age = sc.nextInt();
+		
+		System.out.println("Name : "+ studentName);
+		System.out.println("Age : " + age);
+		sc.close();
+	}
+
+}
