@@ -6,7 +6,7 @@ public class Q10 {
 		String completedInTime = "yes";
 		String usedCheat = "no";
 		
-		boolean bonusEligiblity = ((score<100 && completedInTime == "no") || usedCheat) ? false : true;
+		boolean bonusEligiblity = ((score<100 && completedInTime == "no") || usedCheat)? false : true;
 		
 		
 		
