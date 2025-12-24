@@ -14,7 +14,7 @@ public class MethodQ1 {
 	public static void areaOfTriangle() {
 		float b = 54.0f;
 		float h = 32.0f;
-		System.out.println((float)(((float)(1/2))*b*h));
+		System.out.println((float)(0.5*b*h));
 	}
 
 	public static void main(String[] args) {
@@ -24,4 +24,5 @@ public class MethodQ1 {
 
 	}
 
+	
 }
