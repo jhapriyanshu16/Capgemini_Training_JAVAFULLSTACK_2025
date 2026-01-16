@@ -2,4 +2,6 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="oops.Employee"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="oops.Outer.Inner"/>
+    <fullyQualifiedTypeName name="questions.PaymentProcessingSystem"/>
 </qualifiedTypeNameHistroy>

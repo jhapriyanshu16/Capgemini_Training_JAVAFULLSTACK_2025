@@ -10,8 +10,28 @@ public class OOPSconc {
 	
 	// GETTTERS AND SETTERS
 	
+	//Encapusulation can also be acheived using Java Bean class and Inner class
+	
+	private int price;
+	
+	//setters
+    public void setPrice(int price){
+    	//validation
+    	if(price > 0) {
+    	this.price = price;
+    	}
+    }
+    
+    //getters
+    public void getPrice(){
+    	System.out.println("Price : "+ price);
+    }
+    
+	
 	public static void main(String[] args) {
-		
+		OOPSconc obj1 = new OOPSconc();
+		obj1.setPrice(3999);
+		obj1.getPrice();
 
 	}
 
